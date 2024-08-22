@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.form-widget input {
+  color: black;
+  padding: 0 4px;
+}
